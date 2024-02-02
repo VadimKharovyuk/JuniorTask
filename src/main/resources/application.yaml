@@ -1,0 +1,5 @@
+server:
+  port: 3018
+  app:
+    host: http://pastebox.sendel.ua
+  public_list_size: 10
